@@ -1,5 +1,8 @@
 CREATE DATABASE tesoro_publico;
 
+USE tesoro_publico;
+
+
 CREATE TABLE `activo_bde` (
   `ID` int NOT NULL AUTO_INCREMENT,
   `DIA` varchar(99) DEFAULT NULL,
